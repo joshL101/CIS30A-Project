@@ -1,2 +1,2 @@
-# CIS30A-Project
+# CIS-Project
 This specific repository is one that is being used for my CIS course project.
